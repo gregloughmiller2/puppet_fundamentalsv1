@@ -1,0 +1,3 @@
+---
+message: "This came from greg's cert yaml hierdata"
+nginx::docroot: /var/www/clipper

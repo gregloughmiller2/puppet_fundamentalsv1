@@ -1,0 +1,3 @@
+---
+message: "This is from the cert for the vm name"
+nginx::docroot: /var/www/clipper
